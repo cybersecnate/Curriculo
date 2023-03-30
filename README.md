@@ -55,6 +55,7 @@ Cursos e Certificações:
 -----------------------
 
 - Cybersecurity Foundations, Cybrary (Mar, 23)
+- Certified AppSec Praticioner, The SecOps Group (Fev/23)
 - FIAP Certified Cybersecurity Professional (Jun/22)
 - FIAP Certified Information Security Manager (Jun/22)
 - Formação Redes de Computadores, Alura (Out/22)
