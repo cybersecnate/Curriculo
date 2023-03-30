@@ -3,7 +3,7 @@ Nathan Jacinto da Silva Santos
 
 * +55 (19) 98262-3792 
 * nathan013silva@gmail.com 
-* _linkedin.com/in/nathansilvasantos_ | github.com/cybersecnate 
+* _linkedin.com/in/nathansilvasantos_ | _github.com/cybersecnate_ 
 * Sumaré – SP
 
 -----
