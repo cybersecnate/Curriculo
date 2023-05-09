@@ -13,7 +13,7 @@ Nathan Jacinto da Silva Santos
 > Experiência atuando em Service Desk prestando Suporte N1 e N2. Tenho
 > conhecimento em python e um pouco de PHP, também tive contato durante minha
 > formação com outras tecnologias envolvendo computação em nuvem,
-> virtualização, redes de computadores, Active Directory e linux e programação.
+> virtualização, redes de computadores, Active Directory, linux e programação.
 
 **Objetivo:** Analista de Segurança da Informação Jr.
 
@@ -47,6 +47,7 @@ Habilidades:
 - Sistema operacional Linux e Windows.
 - Redes de computadores.
 - Testes de Invasão.
+- AppSec.
 - Análise de tráfego (Wireshark).
 - Forense e resposta a incidentes.
 - Noções em Cloud Compunting (AWS & GCP)
