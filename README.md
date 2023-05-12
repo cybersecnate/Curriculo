@@ -29,9 +29,17 @@ Formação Acadêmica:
 Experiência Profissional:
 -------------------------
 
+  **MAMINFO**
+
+    (Mai/23 – Atualmente) – Analista de Suporte Junior
+    
+    - Atendimento de chamados
+    - Suporte N1 e N2
+
+
   **Voestalpine Group IT**
 
-    (Fev/22 – Atualmente) – Estagiário em Service Desk
+    (Fev/22 – Mai/2023) – Estagiário em Service Desk
     
     - Atendimento de chamados
     - Suporte N1 e N2
@@ -47,7 +55,7 @@ Habilidades:
 - Sistema operacional Linux e Windows.
 - Redes de computadores.
 - Testes de Invasão.
-- AppSec.
+- Application Security.
 - Análise de tráfego (Wireshark).
 - Forense e resposta a incidentes.
 - Noções em Cloud Compunting (AWS & GCP)
