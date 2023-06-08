@@ -10,7 +10,7 @@ Nathan Jacinto da Silva Santos
 
 **Resumo profissional:**
 
-> Experiência atuando em Service Desk prestando Suporte N1 e N2. Tenho
+> Experiência atuando em Service Desk e NOC prestando Suporte N1, N2 e monitoração de ativos de rede. Tenho
 > conhecimento em python e um pouco de PHP, também tive contato durante minha
 > formação com outras tecnologias envolvendo computação em nuvem,
 > virtualização, redes de computadores, Active Directory, linux e programação.
@@ -29,17 +29,19 @@ Formação Acadêmica:
 Experiência Profissional:
 -------------------------
 
-  **MAMINFO**
+  **Analista de Suporte Jr.**
 
-    (Mai/23 – Atualmente) – Analista de Suporte Junior
+    (Mai/23 – Atualmente) – MAMINFO
     
+    - Atuação no time de NOC
     - Atendimento de chamados
     - Suporte N1 e N2
+    - Análise de incidentes de rede
 
 
-  **Voestalpine Group IT**
+  **Estagiário em Service Desk**
 
-    (Fev/22 – Mai/2023) – Estagiário em Service Desk
+    (Fev/22 – Mai/2023) – Voestalpine Group IT
     
     - Atendimento de chamados
     - Suporte N1 e N2
