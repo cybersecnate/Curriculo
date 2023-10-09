@@ -22,7 +22,7 @@ Formação Acadêmica:
 
   **FIAP Centro Universitário – EAD / (2021 - 2023)**
 
-  Tecnologia em Defesa Cibernética | 4º semestre
+  Tecnologia em Defesa Cibernética 
 
   [_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md)
 
@@ -65,9 +65,9 @@ Habilidades:
 Cursos e Certificações:
 -----------------------
 
-- Cybersecurity Foundations, Cybrary (Mar, 23)
+- Forntinet Certified Fundamentals Cybersecurity
+- FIAP Certified Penetration Tester Professional
+- FIAP Certified Threat Intelligence Professional
 - Certified AppSec Praticioner, The SecOps Group (Fev/23)
 - FIAP Certified Cybersecurity Professional (Jun/22)
 - FIAP Certified Information Security Manager (Jun/22)
-- Formação Redes de Computadores, Alura (Out/22)
-- Introdução ao Pentest, Desec (Nov/2021)
