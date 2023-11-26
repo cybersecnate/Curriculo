@@ -18,3 +18,20 @@
 | Malware Analysis                                                            | 2   |
 | Offensive Cyber Ops (Penetration Testing & Ethical Hacking)                 | 2   |
 | Web & Mobile Exploitation Techniques (Code Review)                          | 2   |
+
+### Técnico em Informática
+
+| Nome                                                                        | Ano |
+| --------------------------------------------------------------------------- |:---:|
+| Fundamentos de Informática I                                                | 1   |
+| Técnicas de programação I                                                   | 1   |
+| Fundamentos de Informática II                                               | 2   |
+| Técnicas de Programação II                                                  | 2   |
+| Linguagem de Programação I                                                  | 3   |
+| Técnicas de Sistemas e Processamento de dados I                             | 3   |
+| Linguagem de programação II                                                 | 4   |
+| Linguagem de Programação Avançada                                           | 4   |
+| Redes de Computadores                                                       | 4   |
+| Introdução aos Sistemas Operacionais                                        | 4   |
+| Gestão de Pessoas e Equipamentos em TI                                      | 4   |
+| Técnicas de Sistemas e Processamento de dados II                            | 4   |
