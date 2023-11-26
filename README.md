@@ -33,9 +33,10 @@ Experiência Profissional:
 
     (Mai/23 – Atualmente) – MAMINFO
     
-    - Atuação no time de NOC
     - Atendimento de chamados
-    - Suporte N1 e N2
+    - Suporte N1
+    - Configuração de notebooks
+    - Instalção e configuração de software
     - Análise de incidentes de rede
 
 
@@ -43,9 +44,10 @@ Experiência Profissional:
 
     (Fev/22 – Mai/2023) – Voestalpine Group IT
     
-    - Atendimento de chamados
+    - Aabertura e atendimento de chamados
     - Suporte N1 e N2
     - Instalação de softwares e equipamentos
+    - Configuração de computadores
     - Atualização de inventário
 
 Habilidades:
@@ -60,6 +62,7 @@ Habilidades:
 - Application Security.
 - Análise de tráfego (Wireshark).
 - Forense e resposta a incidentes.
+- Contato com análise de malware e threat hunting.
 - Noções em Cloud Compunting (AWS & GCP)
 
 Cursos e Certificações:
