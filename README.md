@@ -11,11 +11,11 @@ Nathan Jacinto da Silva Santos
 **Resumo profissional:**
 
 > Experiência atuando em Service Desk e Help Desk prestando Suporte N1, N2 e monitoração de ativos de rede. Tenho
-> conhecimento em python e um pouco de PHP, também tive contato durante minha
+> conhecimento em python e segurança cibernética, também tive contato durante minha
 > formação com outras tecnologias envolvendo computação em nuvem,
 > virtualização, redes de computadores, Active Directory, linux e programação.
 
-**Objetivo:** Analista de Segurança da Informação Jr.
+**Objetivo:** Analista de Segurança da Informação
 
 Formação Acadêmica:
 -------------------
@@ -23,6 +23,12 @@ Formação Acadêmica:
   **FIAP Centro Universitário – EAD / (2021 - 2023)**
 
   Tecnologia em Defesa Cibernética 
+
+  [_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md)
+
+  **E.M. Dr. Leandro Franceschini / (2017 - 2020)**
+
+  Técnico em Informática
 
   [_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md)
 
