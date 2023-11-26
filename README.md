@@ -53,24 +53,25 @@ Experiência Profissional:
 Habilidades:
 ------------
 
-- Inglês básico.
+- Inglês básico (A2).
 - Linguagem de programação Python.
-- Contato breve com linguagem C, PHP e javascript/NodeJS.
-- Sistema operacional Linux e Windows.
+- Contato breve com linguagem C, Java, PHP e javascript/NodeJS.
+- Sistema operacional Linux e Windows (Active Directory).
 - Redes de computadores.
 - Testes de Invasão.
 - Application Security.
 - Análise de tráfego (Wireshark).
 - Forense e resposta a incidentes.
-- Contato com análise de malware e threat hunting.
+- Contato breve com análise de malware e threat hunting.
 - Noções em Cloud Compunting (AWS & GCP)
 
 Cursos e Certificações:
 -----------------------
 
+- Ethical Hacking Active Directory Operations,  GoHacking
 - Forntinet Certified Fundamentals Cybersecurity
 - FIAP Certified Penetration Tester Professional
 - FIAP Certified Threat Intelligence Professional
-- Certified AppSec Praticioner, The SecOps Group (Fev/23)
-- FIAP Certified Cybersecurity Professional (Jun/22)
-- FIAP Certified Information Security Manager (Jun/22)
+- Certified AppSec Praticioner, The SecOps Group 
+- FIAP Certified Cybersecurity Professional
+- FIAP Certified Information Security Manager
