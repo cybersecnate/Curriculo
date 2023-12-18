@@ -10,10 +10,9 @@ Nathan Jacinto da Silva Santos
 
 **Resumo profissional:**
 
-> Experiência atuando em Service Desk e Help Desk prestando Suporte N1, N2 e monitoração de ativos de rede. Tenho
-> conhecimento em python e segurança cibernética, também tive contato durante minha
-> formação com outras tecnologias envolvendo computação em nuvem,
-> virtualização, redes de computadores, Active Directory, linux e programação.
+> Atuação com equipe de SOC realizando monitoramento e suporte no processo de resposta a incidentes,
+> utilização de SIEMs IBM Qradar & Microsoft Sentinel, XDR/EDR Trend Micro, WAF e CDN CloudFlare.
+> Experiência anterior em Service Desk e Help Desk prestando Suporte N1, N2 e monitoração de ativos de rede.
 
 **Objetivo:** Analista de Segurança da Informação
 
