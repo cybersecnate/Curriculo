@@ -35,9 +35,18 @@ Formação Acadêmica:
 Experiência Profissional:
 -------------------------
 
+  **Assistente de Cibersegurança**
+
+    (Dez/23 – Atualmente) – Kryptus
+    
+    - Monitoramento e analise de incidentes de segurança cibernética
+    - Suporte no processo de resposta a incidentes
+    - Investigação de alertas
+    - SIEMs IBM Qradar & Microsoft Sentinel
+  
   **Analista de Suporte Jr.**
 
-    (Mai/23 – Atualmente) – MAMINFO
+    (Mai/23 – Dez/2023) – MAMINFO
     
     - Atendimento de chamados
     - Suporte N1
