@@ -1,5 +1,20 @@
 # Disciplinas
 
+### Offensive Cyber Security - Red Team Operations
+
+| Nome                                                                        | Fase |
+| --------------------------------------------------------------------------- |:---:|
+| Cyber Security                                                              | 1   |
+| Fundamental Skills for Red Teamers                                          | 1   |
+| Cyberlaw & Regulatory                                                       | 2   |
+| Cyber Intel: Offensive Ops                                                  | 2   |
+| Welcome to Offensive Security                                               | 3   |
+| Advanced Exploitation                                                       | 4   |
+| Red Team Operations                                                         | 5   |
+| Malware Analysis                                                            | 5   |
+| Purple Team Exercise                                                        | 5   |
+| IA Aplicada à Segurança da Informação                                       | 5   |
+
 ### Tecnologia em Defesa Cibernética
 
 | Nome                                                                        | Ano |
