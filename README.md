@@ -75,11 +75,10 @@ Habilidades:
 
 - Inglês básico (A2).
 - Linguagem de programação Python.
-- Contato breve com linguagem C, Java, PHP e javascript/NodeJS.
+- Contato breve com linguagem C, PHP e javascript/NodeJS.
 - Sistema operacional Linux e Windows (Active Directory).
 - Redes de computadores.
 - Testes de Invasão.
-- Application Security.
 - Análise de tráfego (Wireshark).
 - Forense e resposta a incidentes.
 - Contato breve com análise de malware e threat hunting.
@@ -89,7 +88,7 @@ Cursos e Certificações:
 -----------------------
 
 - Ethical Hacking Active Directory Operations,  GoHacking
-- Forntinet Certified Fundamentals Cybersecurity
+- Forntinet Certified Associate Cybersecurity
 - FIAP Certified Penetration Tester Professional
 - FIAP Certified Threat Intelligence Professional
 - Certified AppSec Praticioner, The SecOps Group 
