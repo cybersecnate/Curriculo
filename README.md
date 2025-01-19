@@ -19,6 +19,12 @@ Nathan Jacinto da Silva Santos
 Formação Acadêmica:
 -------------------
 
+  **FIAP Centro Universitário – EAD / (Cursando)**
+
+  PosTech -  Offensive Cyber Security - Red Team Operations
+
+  [_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md)
+
   **FIAP Centro Universitário – EAD / (2021 - 2023)**
 
   Tecnologia em Defesa Cibernética 
