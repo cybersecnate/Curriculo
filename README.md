@@ -11,7 +11,7 @@ Nathan Jacinto da Silva Santos
 **Resumo profissional:**
 
 > Atuação com equipe de SOC realizando monitoramento e suporte no processo de resposta a incidentes,
-> utilização de SIEMs IBM Qradar & Microsoft Sentinel, XDR/EDR Trend Micro, WAF e CDN CloudFlare.
+> utilização de SIEM IBM Qradar, XDR/EDR Trend Micro, WAF e CDN CloudFlare.
 > Experiência anterior em Service Desk e Help Desk prestando Suporte N1, N2 e monitoração de ativos de rede.
 
 **Objetivo:** Analista de Segurança da Informação
@@ -47,7 +47,7 @@ Experiência Profissional:
     - Monitoramento e analise de incidentes de segurança cibernética
     - Suporte no processo de resposta a incidentes
     - Investigação de alertas
-    - SIEMs IBM Qradar & Microsoft Sentinel
+    - SIEM IBM Qradar
   
   **Analista de Suporte Jr.**
 
@@ -73,24 +73,21 @@ Experiência Profissional:
 Habilidades:
 ------------
 
-- Inglês básico (A2).
+- Inglês básico (A1).
 - Linguagem de programação Python.
-- Contato breve com linguagem C, PHP e javascript/NodeJS.
+- Contato breve com linguagem C e javascript/NodeJS.
 - Sistema operacional Linux e Windows (Active Directory).
 - Redes de computadores.
 - Testes de Invasão.
 - Análise de tráfego (Wireshark).
 - Forense e resposta a incidentes.
 - Contato breve com análise de malware e threat hunting.
-- Noções em Cloud Compunting (AWS & GCP)
+- Noções em Cloud Compunting (AWS & Azure)
 
 Cursos e Certificações:
 -----------------------
 
+- Google Cybersecurity, Coursera
+- Jr Cybersecurity Analyst, Cisco
 - Ethical Hacking Active Directory Operations,  GoHacking
 - Forntinet Certified Associate Cybersecurity
-- FIAP Certified Penetration Tester Professional
-- FIAP Certified Threat Intelligence Professional
-- Certified AppSec Praticioner, The SecOps Group 
-- FIAP Certified Cybersecurity Professional
-- FIAP Certified Information Security Manager
