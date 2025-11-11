@@ -19,7 +19,13 @@ Nathan Jacinto da Silva Santos
 Formação Acadêmica:
 -------------------
 
-  **FIAP Centro Universitário – EAD / (Cursando)**
+  **PUC Minas – EAD / (2024 - 2025)**
+
+  DevOps & Continous Software Engineering
+
+  [_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md)
+  
+  **FIAP Centro Universitário – EAD / (2024 - 2025)**
 
   PosTech -  Offensive Cyber Security - Red Team Operations
 
@@ -48,6 +54,7 @@ Experiência Profissional:
     - Suporte no processo de resposta a incidentes
     - Investigação de alertas
     - SIEM IBM Qradar
+    - EDR Microsoft Defender
   
   **Analista de Suporte Jr.**
 
@@ -77,11 +84,10 @@ Habilidades:
 - Linguagem de programação Python.
 - Contato breve com linguagem C e javascript/NodeJS.
 - Sistema operacional Linux e Windows (Active Directory).
-- Redes de computadores.
-- Testes de Invasão.
-- Análise de tráfego (Wireshark).
-- Forense e resposta a incidentes.
-- Contato breve com análise de malware e threat hunting.
+- SIEM QRadar
+- EDR Microsoft Defender
+- Análise e resposta a incidentes.
+- Contato breve com threat hunting.
 - Noções em Cloud Compunting (AWS & Azure)
 
 Cursos e Certificações:
