@@ -10,16 +10,16 @@ Nathan Jacinto da Silva Santos
 
 **Resumo profissional:**
 
-> Atuação com equipe de SOC realizando monitoramento e suporte no processo de resposta a incidentes,
-> utilização de SIEM IBM Qradar, XDR/EDR Trend Micro, WAF e CDN CloudFlare.
-> Experiência anterior em Service Desk e Help Desk prestando Suporte N1, N2 e monitoração de ativos de rede.
+> Atuação com equipe de SOC com foco em Threat Detection & Monitoring
+> Utilização de SIEM IBM Qradar e Splunk
+> XDR/EDR Microsoft Defender e CrowdStrike Falcon
 
 **Objetivo:** Analista de Segurança da Informação
 
 Formação Acadêmica:
 -------------------
 
-  **PUC Minas – EAD / (2024 - 2025)**
+  **PUC Minas – EAD / (2025 - 2027)**
 
   DevOps & Continous Software Engineering
 
@@ -37,18 +37,21 @@ Formação Acadêmica:
 
   [_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md)
 
-  **E.M. Dr. Leandro Franceschini / (2017 - 2020)**
-
-  Técnico em Informática
-
-  [_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md)
-
 Experiência Profissional:
 -------------------------
 
+ **Analista de Segurança da Informação**
+
+    (Fev/26 – Atualmente) – Santander Digital Services
+    
+    - Monitoramento e analise de incidentes de segurança cibernética
+    - Investigação de alertas
+    - SIEM Splunk
+    - EDR CrowdStrike Falcon
+    
   **Assistente de Cibersegurança**
 
-    (Dez/23 – Atualmente) – Kryptus
+    (Dez/23 – Fev/26) – Kryptus
     
     - Monitoramento e analise de incidentes de segurança cibernética
     - Suporte no processo de resposta a incidentes
@@ -80,14 +83,16 @@ Experiência Profissional:
 Habilidades:
 ------------
 
-- Inglês básico (A1).
+- Inglês básico (A2)
+- Espanhol Básico (A1)
 - Linguagem de programação Python.
 - Contato breve com linguagem C e javascript/NodeJS.
 - Sistema operacional Linux e Windows (Active Directory).
-- SIEM QRadar
-- EDR Microsoft Defender
-- Análise e resposta a incidentes.
-- Contato breve com threat hunting.
+- SIEM
+- XDR e EDR
+- WAF
+- Análise e resposta a incidentes
+- Contato breve com threat hunting
 - Noções em Cloud Compunting (AWS & Azure)
 
 Cursos e Certificações:
@@ -96,4 +101,3 @@ Cursos e Certificações:
 - Google Cybersecurity, Coursera
 - Jr Cybersecurity Analyst, Cisco
 - Ethical Hacking Active Directory Operations,  GoHacking
-- Forntinet Certified Associate Cybersecurity
