@@ -10,10 +10,8 @@ Nathan Jacinto da Silva Santos
 
 **Resumo profissional:**
 
-> Atuação com equipe de SOC com foco em Threat Detection & Monitoring
-> 
-> Utilização de SIEM IBM Qradar e Splunk
-> 
+> Atuação com equipe de SOC com foco em Threat Detection & Monitoring <br>
+> Utilização de SIEM IBM Qradar e Splunk <br>
 > XDR/EDR Microsoft Defender e CrowdStrike Falcon
 
 **Objetivo:** Analista de Segurança da Informação
