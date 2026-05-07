@@ -23,19 +23,16 @@ Formação Acadêmica:
 
   DevOps & Continous Software Engineering
 
-  [_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md)
   
   **FIAP Centro Universitário – EAD / (2024 - 2025)**
 
   PosTech -  Offensive Cyber Security - Red Team Operations
 
-  [_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md)
 
   **FIAP Centro Universitário – EAD / (2021 - 2023)**
 
   Tecnologia em Defesa Cibernética 
 
-  [_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md)
 
 Experiência Profissional:
 -------------------------
@@ -47,7 +44,7 @@ Experiência Profissional:
     - Monitoramento e analise de incidentes de segurança cibernética
     - Investigação de alertas
     - SIEM Splunk
-    - EDR CrowdStrike Falcon
+    - XDR CrowdStrike Falcon
     
   **Assistente de Cibersegurança**
 
@@ -98,6 +95,6 @@ Habilidades:
 Cursos e Certificações:
 -----------------------
 
-- Google Cybersecurity, Coursera
-- Jr Cybersecurity Analyst, Cisco
-- Ethical Hacking Active Directory Operations,  GoHacking
+- CompTIA Security+ (SY0-700)
+- Google Cybersecurity (Coursera)
+- Jr Cybersecurity Analyst (Cisco)
