@@ -21,17 +21,17 @@ Formação Acadêmica:
 
   **PUC Minas – EAD / (2025 - 2027)**
 
-  DevOps & Continous Software Engineering
+  > DevOps & Continous Software Engineering
 
   
   **FIAP Centro Universitário – EAD / (2024 - 2025)**
 
-  PosTech -  Offensive Cyber Security - Red Team Operations
+  > PosTech -  Offensive Cyber Security - Red Team Operations
 
 
   **FIAP Centro Universitário – EAD / (2021 - 2023)**
 
-  Tecnologia em Defesa Cibernética 
+  > Tecnologia em Defesa Cibernética 
 
 
 Experiência Profissional:
